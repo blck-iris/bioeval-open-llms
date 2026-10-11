@@ -1,0 +1,7 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "template": "chat",
+  "n_shifts": 4,
+  "seed": 0,
+  "seconds": 758.1
+}

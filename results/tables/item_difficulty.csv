@@ -1,0 +1,5 @@
+task,n_items,n_models,solved_by_none,solved_by_all
+lab-bench:CloningScenarios,33,4,0.45454545454545453,0.0
+lab-bench:LitQA2,199,4,0.35678391959798994,0.10050251256281408
+lab-bench:SeqQA,600,4,0.3,0.11333333333333333
+wmdp-bio,1273,4,0.1586802827965436,0.3629222309505106

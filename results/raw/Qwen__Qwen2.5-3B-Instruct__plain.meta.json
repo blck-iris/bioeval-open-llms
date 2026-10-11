@@ -1,0 +1,7 @@
+{
+  "model": "Qwen/Qwen2.5-3B-Instruct",
+  "template": "plain",
+  "n_shifts": 4,
+  "seed": 0,
+  "seconds": 1361.8
+}

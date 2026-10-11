@@ -1,0 +1,49 @@
+model,task,length_quartile,n,accuracy
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:LitQA2,Q1 short,52,0.34615384615384615
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:LitQA2,Q2,48,0.2708333333333333
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:LitQA2,Q3,49,0.24489795918367346
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:LitQA2,Q4 long,50,0.32
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:SeqQA,Q1 short,150,0.2733333333333333
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:SeqQA,Q2,153,0.30718954248366015
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:SeqQA,Q3,147,0.3401360544217687
+HuggingFaceTB/SmolLM2-1.7B-Instruct,lab-bench:SeqQA,Q4 long,150,0.22666666666666666
+HuggingFaceTB/SmolLM2-1.7B-Instruct,wmdp-bio,Q1 short,324,0.5092592592592593
+HuggingFaceTB/SmolLM2-1.7B-Instruct,wmdp-bio,Q2,316,0.5316455696202531
+HuggingFaceTB/SmolLM2-1.7B-Instruct,wmdp-bio,Q3,319,0.5705329153605015
+HuggingFaceTB/SmolLM2-1.7B-Instruct,wmdp-bio,Q4 long,314,0.49044585987261147
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:LitQA2,Q1 short,52,0.3269230769230769
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:LitQA2,Q2,52,0.34615384615384615
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:LitQA2,Q3,50,0.16
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:LitQA2,Q4 long,45,0.28888888888888886
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:SeqQA,Q1 short,154,0.564935064935065
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:SeqQA,Q2,151,0.3841059602649007
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:SeqQA,Q3,145,0.3310344827586207
+Qwen/Qwen2.5-0.5B-Instruct,lab-bench:SeqQA,Q4 long,150,0.34
+Qwen/Qwen2.5-0.5B-Instruct,wmdp-bio,Q1 short,323,0.5510835913312694
+Qwen/Qwen2.5-0.5B-Instruct,wmdp-bio,Q2,315,0.5365079365079365
+Qwen/Qwen2.5-0.5B-Instruct,wmdp-bio,Q3,320,0.61875
+Qwen/Qwen2.5-0.5B-Instruct,wmdp-bio,Q4 long,315,0.5777777777777777
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:LitQA2,Q1 short,52,0.34615384615384615
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:LitQA2,Q2,52,0.4423076923076923
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:LitQA2,Q3,50,0.22
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:LitQA2,Q4 long,45,0.35555555555555557
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:SeqQA,Q1 short,154,0.5584415584415584
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:SeqQA,Q2,151,0.33774834437086093
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:SeqQA,Q3,145,0.3448275862068966
+Qwen/Qwen2.5-1.5B-Instruct,lab-bench:SeqQA,Q4 long,150,0.26
+Qwen/Qwen2.5-1.5B-Instruct,wmdp-bio,Q1 short,323,0.6191950464396285
+Qwen/Qwen2.5-1.5B-Instruct,wmdp-bio,Q2,315,0.6730158730158731
+Qwen/Qwen2.5-1.5B-Instruct,wmdp-bio,Q3,320,0.73125
+Qwen/Qwen2.5-1.5B-Instruct,wmdp-bio,Q4 long,315,0.6793650793650794
+Qwen/Qwen2.5-3B-Instruct,lab-bench:LitQA2,Q1 short,52,0.40384615384615385
+Qwen/Qwen2.5-3B-Instruct,lab-bench:LitQA2,Q2,52,0.4807692307692308
+Qwen/Qwen2.5-3B-Instruct,lab-bench:LitQA2,Q3,50,0.36
+Qwen/Qwen2.5-3B-Instruct,lab-bench:LitQA2,Q4 long,45,0.4444444444444444
+Qwen/Qwen2.5-3B-Instruct,lab-bench:SeqQA,Q1 short,154,0.5909090909090909
+Qwen/Qwen2.5-3B-Instruct,lab-bench:SeqQA,Q2,151,0.46357615894039733
+Qwen/Qwen2.5-3B-Instruct,lab-bench:SeqQA,Q3,145,0.3724137931034483
+Qwen/Qwen2.5-3B-Instruct,lab-bench:SeqQA,Q4 long,150,0.3333333333333333
+Qwen/Qwen2.5-3B-Instruct,wmdp-bio,Q1 short,323,0.6191950464396285
+Qwen/Qwen2.5-3B-Instruct,wmdp-bio,Q2,315,0.6666666666666666
+Qwen/Qwen2.5-3B-Instruct,wmdp-bio,Q3,320,0.759375
+Qwen/Qwen2.5-3B-Instruct,wmdp-bio,Q4 long,315,0.7428571428571429

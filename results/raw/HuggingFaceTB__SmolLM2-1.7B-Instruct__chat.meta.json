@@ -1,0 +1,7 @@
+{
+  "model": "HuggingFaceTB/SmolLM2-1.7B-Instruct",
+  "template": "chat",
+  "n_shifts": 4,
+  "seed": 0,
+  "seconds": 728.2
+}
